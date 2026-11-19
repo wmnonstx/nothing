@@ -2,5 +2,5 @@
   "sip": 16,
   "name": "not-not",
   "description": "An open-mint test token for the Zero To Batch Tx demo. Testnet only. It has no value.",
-  "image": "https://raw.githubusercontent.com/wmnonstx/nothing/main/assets/img/not-not.svg"
+  "image": "https://raw.githubusercontent.com/wmnonstx/nothing/2db377f8c8f55b2957e65b8e47d1daa17754b8a3/assets/img/not-not.svg"
 }
